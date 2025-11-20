@@ -54,8 +54,6 @@ Across both subjects:
   - Math → Stepwise AIC  
   - Portuguese → Stepwise AIC  
   (Detailed tables found on pages 17 and 26 of the presentation)  
-  :contentReference[oaicite:4]{index=4}
-
 ---
 
 ## 🧠 Key Predictors Identified
@@ -75,8 +73,40 @@ Across both subjects:
 - reasons for choosing school
 
 Lasso coefficient tables appear in the report:  
-:contentReference[oaicite:5]{index=5}
+---
+
+## 📁 Repository Structure
+
+- **`report.pdf`** — Full written analysis  
+- **`presentation.pdf`** — Slides used to present results  
+  :contentReference[oaicite:6]{index=6}
+- **`final_project_code.R`** — All R code used for cleaning, modeling, and evaluation  
+  :contentReference[oaicite:7]{index=7}
 
 ---
+
+## 🛠️ Tech Stack
+
+- **R**
+- `tidyverse`, `caret`, `ggplot2`
+- `glmnet` (Lasso/Ridge)
+- `pls`, `leaps`
+- `randomForest`
+- `gbm`
+- `corrplot`
+
+---
+
+## 👨‍💻 Contributors
+
+- **Vincent Johnson**  
+- **Joseph Kang**  
+- **Catherine Sung**
+
+---
+
+## 📜 License
+
+This project is for academic purposes.
 
 
