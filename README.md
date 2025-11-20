@@ -25,7 +25,7 @@ We analyze academic, personal, and social factors to determine which variables a
 - Correlation heatmaps  
 - Summary statistics such as mean, SD, quartiles  
   (See pages 8–12 for Math and pages 18–25 for Portuguese in the presentation)  
-  :contentReference[oaicite:3]{index=3}
+
 
 ### 🔹 Models Implemented
 - **Multiple Linear Regression**
@@ -79,5 +79,4 @@ Lasso coefficient tables appear in the report:
 
 ---
 
-## 📁 Repository Structure
 
